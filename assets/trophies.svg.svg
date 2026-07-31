@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bgG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#170821"/>
+    </linearGradient>
+    <linearGradient id="accG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6fd8"/>
+      <stop offset="50%" stop-color="#e0369d"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <clipPath id="cardClip3"><rect x="0" y="0" width="900" height="200" rx="18"/></clipPath>
+    <linearGradient id="shineG" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="47%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="53%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#cardClip3)">
+    <rect width="900" height="200" fill="url(#bgG)"/>
+    <rect x="1" y="1" width="898" height="198" rx="17" fill="none" stroke="#3d2255" stroke-width="1.5"/>
+    
+    <g transform="translate(75.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="0.30s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-75.0,-100.0) translate(75.0,100.0)">
+        <circle r="52" fill="none" stroke="#ffce54" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#ffce54" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#ffce54">S</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">Commits</text>
+        <circle r="52" fill="none" stroke="#ffce54" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="0.30s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="0.30s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <g transform="translate(225.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="0.48s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-225.0,-100.0) translate(225.0,100.0)">
+        <circle r="52" fill="none" stroke="#a855f7" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#a855f7" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#a855f7">A+</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">MRI/AI Builder</text>
+        <circle r="52" fill="none" stroke="#a855f7" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="0.48s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="0.48s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <g transform="translate(375.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="0.66s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-375.0,-100.0) translate(375.0,100.0)">
+        <circle r="52" fill="none" stroke="#ff6fd8" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#ff6fd8" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#ff6fd8">A</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">Hackathon</text>
+        <circle r="52" fill="none" stroke="#ff6fd8" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="0.66s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="0.66s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <g transform="translate(525.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="0.84s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-525.0,-100.0) translate(525.0,100.0)">
+        <circle r="52" fill="none" stroke="#4fc1ff" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#4fc1ff" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#4fc1ff">B+</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">Repositories</text>
+        <circle r="52" fill="none" stroke="#4fc1ff" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="0.84s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="0.84s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <g transform="translate(675.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.02s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="1.02s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-675.0,-100.0) translate(675.0,100.0)">
+        <circle r="52" fill="none" stroke="#4ec9b0" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#4ec9b0" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#4ec9b0">B</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">Followers</text>
+        <circle r="52" fill="none" stroke="#4ec9b0" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="1.02s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="1.02s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <g transform="translate(825.0,100.0) scale(0.3)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.4s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" additive="sum" from="0" to="1" begin="1.20s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.34 1.3 0.4 1"/>
+      <g transform="translate(-825.0,-100.0) translate(825.0,100.0)">
+        <circle r="52" fill="none" stroke="#e0369d" stroke-width="3" opacity="0.85" filter="url(#glow)"/>
+        <circle r="52" fill="#e0369d" opacity="0.08"/>
+        <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="22" font-weight="800" fill="#e0369d">C+</text>
+        <text x="0" y="16" text-anchor="middle" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="10.5" fill="#c9b6e0">Stars</text>
+        <circle r="52" fill="none" stroke="#e0369d" stroke-width="1" opacity="0">
+          <animate attributeName="r" from="52" to="70" begin="1.20s" dur="0.7s" fill="freeze"/>
+          <animate attributeName="opacity" values="0.8;0" begin="1.20s" dur="0.7s" fill="freeze"/>
+        </circle>
+      </g>
+    </g>
+    <rect id="trophyShine" x="-200" y="-200" width="160" height="400" fill="url(#shineG)" transform="rotate(20)">
+      <animate attributeName="x" values="-200;1100;1100" keyTimes="0;0.6;1" begin="2.5s" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
