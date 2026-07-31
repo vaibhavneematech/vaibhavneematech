@@ -22,7 +22,7 @@
 
 ## About Me
 
-- 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain (CGPA 8.37)
+- 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain 
 - 💻 Comfortable in **C, C++, and Java**, with a growing interest in Data Structures & Algorithms
 - 🧠 Led a **student research project detecting Alzheimer's disease from MRI scans** using CNNs — 85% test accuracy
 - ⚡ Built a **Health Gen AI prototype** in a 24-hour hackathon using generative AI concepts
