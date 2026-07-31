@@ -9,25 +9,22 @@
 <br/>
 
 <table>
-  <tr>
-    <!-- Hanging Badge on the Left -->
-    <td width="30%" align="center" valign="top">
-      <img src="assets/lanyard.svg?v=1" width="220" alt="Vaibhav Neema ID badge" />
-    </td>
-
-    <!-- About Me Section on the Right -->
-    <td width="70%" valign="top">
-      <h2>About Me</h2>
-      <ul>
-        <li>🎓 Fourth-semester <b>BTech Computer Science</b> student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain</li>
-        <li>💻 Comfortable in <b>C, C++, and Java</b>, with a growing interest in Data Structures & Algorithms</li>
-        <li>🧠 Led a <b>student research project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
-        <li>⚡ Built a <b>Health Gen AI prototype</b> in a 24-hour hackathon using generative AI concepts</li>
-        <li>🌱 Currently exploring AI/ML tooling and looking for a <b>software engineering internship</b></li>
-        <li>♟️ Off-screen: chess, reading, and hunting for the next hackathon</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="assets/lanyard.svg?v=1" width="220" alt="Vaibhav Neema ID badge" />
+</td>
+<td width="70%" valign="top">
+<h2>About Me</h2>
+<ul>
+<li>🎓 Fourth-semester <b>BTech Computer Science</b> student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain</li>
+<li>💻 Comfortable in <b>C, C++, and Java</b>, with a growing interest in Data Structures & Algorithms</li>
+<li>🧠 Led a <b>student research project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
+<li>⚡ Built a <b>Health Gen AI prototype</b> in a 24-hour hackathon using generative AI concepts</li>
+<li>🌱 Currently exploring AI/ML tooling and looking for a <b>software engineering internship</b></li>
+<li>♟️ Off-screen: chess, reading, and hunting for the next hackathon</li>
+</ul>
+</td>
+</tr>
 </table>
 <br/>
 
