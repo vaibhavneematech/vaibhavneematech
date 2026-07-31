@@ -8,27 +8,27 @@
 
 <br/>
 
-<img src="assets/lanyard.svg?v=1" alt="Vaibhav Neema ID badge" width="260">
+<table>
+  <tr>
+    <!-- Hanging Badge on the Left -->
+    <td width="30%" align="center" valign="top">
+      <img src="assets/lanyard.svg?v=1" width="220" alt="Vaibhav Neema ID badge" />
+    </td>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vaibhavneematech&label=Profile%20Views&color=e0369d&style=flat" alt="Profile views"/>
-<a href="mailto:vaibhav.neema.tech@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhav.neema.tech%40gmail.com-ff6fd8?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/vaibhavneematech"><img src="https://img.shields.io/badge/GitHub-vaibhavneematech-a855f7?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-
-</div>
-
-<br/>
-
-## About Me
-
-- 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain 
-- 💻 Comfortable in **C, C++, and Java**, with a growing interest in Data Structures & Algorithms
-- 🧠 Led a **student research project detecting Alzheimer's disease from MRI scans** using CNNs — 85% test accuracy
-- ⚡ Built a **Health Gen AI prototype** in a 24-hour hackathon using generative AI concepts
-- 🌱 Currently exploring AI/ML tooling and looking for a **software engineering internship**
-- ♟️ Off-screen: chess, reading, and hunting for the next hackathon
-
+    <!-- About Me Section on the Right -->
+    <td width="70%" valign="top">
+      <h2>About Me</h2>
+      <ul>
+        <li>🎓 Fourth-semester <b>BTech Computer Science</b> student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain</li>
+        <li>💻 Comfortable in <b>C, C++, and Java</b>, with a growing interest in Data Structures & Algorithms</li>
+        <li>🧠 Led a <b>student research project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
+        <li>⚡ Built a <b>Health Gen AI prototype</b> in a 24-hour hackathon using generative AI concepts</li>
+        <li>🌱 Currently exploring AI/ML tooling and looking for a <b>software engineering internship</b></li>
+        <li>♟️ Off-screen: chess, reading, and hunting for the next hackathon</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 <br/>
 
 ## Tech Stack
