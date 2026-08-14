@@ -10,19 +10,20 @@
 
 <table>
 <tr>
-<td width="30%" align="center" valign="top">
-<img src="assets/lanyard.svg?v=1" width="220" alt="Vaibhav Neema ID badge" />
+<td width="220" align="center" valign="middle">
+<img src="assets/lanyard.svg?v=1" alt="Vaibhav Neema ID badge" width="180"/>
 </td>
-<td width="70%" valign="top">
-<h2>About Me</h2>
-<ul>
-<li>🎓 Fourth-semester <b>BTech Computer Science</b> student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain</li>
-<li>💻 Comfortable in <b>C, C++, and Java</b>, with a growing interest in Data Structures & Algorithms</li>
-<li>🧠 made a project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
-<li>⚡ Built **HealthAI Guardian**, an AI health monitoring dashboard, in a 24-hour hackathon
-<li>🌱 Currently exploring AI/ML tooling and looking for a <b>software engineering internship</b></li>
-<li>♟️ Off-screen: chess, reading, and hunting for the next hackathon</li>
-</ul>
+<td valign="middle">
+
+### About Me
+
+- 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain
+- 💻 Comfortable in **C, C++, and Java**, with a growing interest in Data Structures & Algorithms
+- 🧠 Built an Alzheimer's disease detection project from MRI scans using CNNs — 85% test accuracy
+- ⚡ Built **HealthAI Guardian**, an AI health monitoring dashboard, in a 24-hour hackathon
+- 🌱 Currently exploring AI/ML tooling and looking for a **software engineering internship**
+- ♟️ Off-screen: chess, reading, and hunting for the next hackathon
+
 </td>
 </tr>
 </table>
@@ -30,40 +31,38 @@
 
 ## Tech Stack
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 <br/>
 
 ## Projects
+<h2 align="center">Projects</h2>
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🧠 **Early Alzheimer Disease Detection AI** | Detects Alzheimer's from MRI scans using CNN architectures; shipped a Streamlit diagnostic UI for doctors & caregivers, 85% test accuracy | Python · CNN · Streamlit | [Repo](https://github.com/vaibhavneematech/Early-ALZHEIMER-disease-detection-AI) |
 | ⚕️ **HealthAI Guardian** | AI-powered health monitoring dashboard — heart disease risk prediction, symptom checker, wearable sync, and telehealth booking. Built in a 24-hour hackathon. | Python · Generative AI · Streamlit | [Repo](https://github.com/vaibhavneematech/health-ai-guardian) |
-
 <br/>
 
 ## GitHub Stats
 
-<div align="center">
-<img src="assets/stats.svg?v=1" alt="GitHub stats" width="48%"/>
-<img src="assets/langs.svg?v=1" alt="Most used languages" width="48%"/>
-</div>
+<h2 align="center">GitHub Stats</h2>
 
-<br/>
+<p align="center">
+  <img src="assets/stats.svg?v=1" width="48%"/>
+  <img src="assets/langs.svg?v=1" width="48%"/>
+</p>
 
-<div align="center">
-<img src="assets/trophies.svg?v=1" alt="GitHub trophies" width="92%"/>
-</div>
+<p align="center">
+  <img src="assets/trophies.svg?v=1" width="90%"/>
+</p>
 
 <br/>
 
@@ -91,13 +90,19 @@
 
 ## Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="mailto:vaibhav.neema.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vaibhavneematech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.neema.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavneematech)
+<p align="center">
 
-</div>
+```js
+console.log("Debugging life, one semicolon at a time.");
+```
 
-<div align="center">
-<sub>console.log("Debugging life, one semicolon at a time.");</sub>
-</div>
+</p>
