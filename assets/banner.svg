@@ -192,42 +192,8 @@
           from="0.6" to="1" begin="2.34s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </path></g>
     <g id="roles">
-      <g>
-        <clipPath id="roleClip0">
-          <rect x="44" y="156" width="0" height="100">
-            <animate attributeName="width" values="0;258;258;0" keyTimes="0;0.324;0.824;1"
-              begin="3.60s" dur="3.40s" repeatCount="indefinite"/>
-          </rect>
-        </clipPath>
-        <text x="46" y="212" clip-path="url(#roleClip0)" font-family="'Fira Code',Consolas,monospace" font-size="19" font-weight="600" fill="#a855f7">&gt; BTech CSE Student @ SVVV</text>
-      </g>
-      <g>
-        <clipPath id="roleClip1">
-          <rect x="44" y="156" width="0" height="100">
-            <animate attributeName="width" values="0;258;258;0" keyTimes="0;0.324;0.824;1"
-              begin="7.00s" dur="3.40s" repeatCount="indefinite"/>
-          </rect>
-        </clipPath>
-        <text x="46" y="212" clip-path="url(#roleClip1)" font-family="'Fira Code',Consolas,monospace" font-size="19" font-weight="600" fill="#a855f7">&gt; C / C++ / Java Developer</text>
-      </g>
-      <g>
-        <clipPath id="roleClip2">
-          <rect x="44" y="156" width="0" height="100">
-            <animate attributeName="width" values="0;174;174;0" keyTimes="0;0.324;0.824;1"
-              begin="10.40s" dur="3.40s" repeatCount="indefinite"/>
-          </rect>
-        </clipPath>
-        <text x="46" y="212" clip-path="url(#roleClip2)" font-family="'Fira Code',Consolas,monospace" font-size="19" font-weight="600" fill="#a855f7">&gt; AI + ML Explorer</text>
-      </g>
-      <g>
-        <clipPath id="roleClip3">
-          <rect x="44" y="156" width="0" height="100">
-            <animate attributeName="width" values="0;258;258;0" keyTimes="0;0.324;0.824;1"
-              begin="13.80s" dur="3.40s" repeatCount="indefinite"/>
-          </rect>
-        </clipPath>
-        <text x="46" y="212" clip-path="url(#roleClip3)" font-family="'Fira Code',Consolas,monospace" font-size="19" font-weight="600" fill="#a855f7">&gt; Turning Coffee Into Code</text>
-      </g></g>
+  <text x="46" y="212" font-family="'Fira Code',Consolas,monospace" font-size="19" font-weight="600" fill="#a855f7">&gt; BTech CSE Student | Building with C/C++/Java</text>
+</g>
     
     <g id="quoteBox" opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="8.2s" dur="0.6s" fill="freeze"/>
