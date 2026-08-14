@@ -43,7 +43,6 @@
 <br/>
 
 ## Projects
-<h2 align="center">Projects</h2>
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
