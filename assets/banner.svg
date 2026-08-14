@@ -196,7 +196,7 @@
 </g>
     
     <g id="quoteBox" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="8.2s" dur="0.6s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.6s" fill="freeze"/>
       <rect x="44" y="240" width="620" height="56" rx="10" fill="rgba(255,255,255,0.04)" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="4 3"/>
       <rect x="44" y="240" width="4" height="56" rx="2" fill="url(#nameGrad)"/>
       <g clip-path="url(#quoteClip)">
@@ -204,96 +204,96 @@
       </g>
       <clipPath id="quoteClip">
         <rect x="60" y="220" width="0" height="100">
-          <animate attributeName="width" from="0" to="580" begin="8.5s" dur="2s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+          <animate attributeName="width" from="0" to="580" begin="3.2s" dur="2s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
         </rect>
       </clipPath>
     </g>
     <g id="pills">
       <g class="techPill" opacity="0" transform="translate(44,312)">
-        <animate attributeName="opacity" from="0" to="1" begin="9.60s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="9.60s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="3.6s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="67" height="38" rx="19" fill="rgba(255,255,255,0.06)" stroke="#4a2a66" stroke-width="1.2"/>
         <circle cx="22" cy="19" r="7" fill="#5c6bc0"/>
         <text x="36" y="24" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14.5" font-weight="600" fill="#f3e8ff">C</text>
       </g>
       <g class="techPill" opacity="0" transform="translate(123,312)">
-        <animate attributeName="opacity" from="0" to="1" begin="9.82s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="9.82s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="3.75s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="3.75s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="85" height="38" rx="19" fill="rgba(255,255,255,0.06)" stroke="#4a2a66" stroke-width="1.2"/>
         <circle cx="22" cy="19" r="7" fill="#00599C"/>
         <text x="36" y="24" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14.5" font-weight="600" fill="#f3e8ff">C++</text>
       </g>
       <g class="techPill" opacity="0" transform="translate(220,312)">
-        <animate attributeName="opacity" from="0" to="1" begin="10.04s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="10.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 14" to="0 0" begin="3.9s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="94" height="38" rx="19" fill="rgba(255,255,255,0.06)" stroke="#4a2a66" stroke-width="1.2"/>
         <circle cx="22" cy="19" r="7" fill="#ea2d2e"/>
         <text x="36" y="24" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14.5" font-weight="600" fill="#f3e8ff">Java</text>
       </g></g>
     <g id="about">
       <g opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="10.60s" dur="0.6s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="10.60s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.1s" dur="0.6s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="4.1s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <text x="44" y="382" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14" fill="#c9b6e0"><tspan fill="#ff6fd8">&#10095; </tspan>Fourth-sem BTech CSE student building with C, C++ and Java.</text>
       </g>
       <g opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="10.95s" dur="0.6s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="10.95s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.3s" dur="0.6s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="4.3s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <text x="44" y="405" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14" fill="#c9b6e0"><tspan fill="#ff6fd8">&#10095; </tspan>Led an Alzheimer's MRI detection project (CNN, 85% accuracy).</text>
       </g>
       <g opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="11.30s" dur="0.6s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="11.30s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.6s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="4.5s" dur="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <text x="44" y="428" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="14" fill="#c9b6e0"><tspan fill="#ff6fd8">&#10095; </tspan>Hackathon builder building Health Gen AI prototypes for fun.</text>
       </g></g>
     <g id="stats">
       <g transform="translate(44,457)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="12.40s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="12.40s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="4.7s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="136" height="58" rx="10" fill="rgba(255,255,255,0.045)" stroke="#3d2255" stroke-width="1"/>
         <text x="14" y="22" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="11.5" fill="#c9b6e0">Repos</text>
         <text x="14" y="42" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="17" font-weight="700" fill="#f3e8ff">12+</text>
         <rect x="14" y="48" width="108" height="4" rx="2" fill="#3d2255"/>
         <rect x="14" y="48" width="0" height="4" rx="2" fill="url(#nameGrad)">
-          <animate attributeName="width" from="0" to="84.2" begin="12.70s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+          <animate attributeName="width" from="0" to="84.2" begin="5.0s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
         </rect>
       </g>
       <g transform="translate(194,457)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="12.58s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="12.58s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="4.8s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="136" height="58" rx="10" fill="rgba(255,255,255,0.045)" stroke="#3d2255" stroke-width="1"/>
         <text x="14" y="22" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="11.5" fill="#c9b6e0">Languages</text>
         <text x="14" y="42" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="17" font-weight="700" fill="#f3e8ff">3</text>
         <rect x="14" y="48" width="108" height="4" rx="2" fill="#3d2255"/>
         <rect x="14" y="48" width="0" height="4" rx="2" fill="url(#nameGrad)">
-          <animate attributeName="width" from="0" to="69.1" begin="12.88s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+          <animate attributeName="width" from="0" to="69.1" begin="5.1s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
         </rect>
       </g>
       <g transform="translate(344,457)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="12.76s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="12.76s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="4.9s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="136" height="58" rx="10" fill="rgba(255,255,255,0.045)" stroke="#3d2255" stroke-width="1"/>
         <text x="14" y="22" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="11.5" fill="#c9b6e0">Coffee/day</text>
         <text x="14" y="42" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="17" font-weight="700" fill="#f3e8ff">many</text>
         <rect x="14" y="48" width="108" height="4" rx="2" fill="#3d2255"/>
         <rect x="14" y="48" width="0" height="4" rx="2" fill="url(#nameGrad)">
-          <animate attributeName="width" from="0" to="108.0" begin="13.06s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+          <animate attributeName="width" from="0" to="108.0" begin="5.2s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
         </rect>
       </g>
       <g transform="translate(494,457)" opacity="0">
-        <animate attributeName="opacity" from="0" to="1" begin="12.94s" dur="0.5s" fill="freeze"/>
-        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="12.94s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+        <animate attributeName="opacity" from="0" to="1" begin="5.0s" dur="0.5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" additive="sum" from="0 16" to="0 0" begin="5.0s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
         <rect width="136" height="58" rx="10" fill="rgba(255,255,255,0.045)" stroke="#3d2255" stroke-width="1"/>
         <text x="14" y="22" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="11.5" fill="#c9b6e0">Streak</text>
         <text x="14" y="42" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="17" font-weight="700" fill="#f3e8ff">on fire</text>
         <rect x="14" y="48" width="108" height="4" rx="2" fill="#3d2255"/>
         <rect x="14" y="48" width="0" height="4" rx="2" fill="url(#nameGrad)">
-          <animate attributeName="width" from="0" to="97.2" begin="13.24s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+          <animate attributeName="width" from="0" to="97.2" begin="5.3s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
         </rect>
       </g></g>
     
     <g id="codeCard" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="13.30s" dur="0.5s" fill="freeze"/>
+      <animate attributeName="opacity" from="0" to="1" begin="5.5s" dur="0.5s" fill="freeze"/>
       <rect x="44" y="529" width="620" height="154" rx="12" fill="#0f0819" stroke="#3d2255" stroke-width="1.2"/>
       <path d="M 44 541 a12,12 0 0 1 12,-12 h 596 a12,12 0 0 1 12,12 v 18 h -620 z" fill="#120a1f"/>
       <circle cx="62" cy="544" r="4" fill="#ff5f57"/>
@@ -304,7 +304,7 @@
         <g>
           <clipPath id="codeClip0">
             <rect x="76" y="565" width="0" height="26">
-              <animate attributeName="width" from="0" to="570" begin="13.60s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+              <animate attributeName="width" from="0" to="570" begin="5.7s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
             </rect>
           </clipPath>
           <text x="78" y="581" clip-path="url(#codeClip0)" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#d4d4d4"><tspan fill="#c586c0">const</tspan> <tspan fill="#4fc1ff">buildDreams</tspan> = () =&gt; {</text>
@@ -312,7 +312,7 @@
         <g>
           <clipPath id="codeClip1">
             <rect x="76" y="587" width="0" height="26">
-              <animate attributeName="width" from="0" to="570" begin="14.10s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+              <animate attributeName="width" from="0" to="570" begin="6.0s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
             </rect>
           </clipPath>
           <text x="78" y="603" clip-path="url(#codeClip1)" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#d4d4d4">&#160;&#160;<tspan fill="#c586c0">const</tspan> stack = [<tspan fill="#ce9178">"C"</tspan>, <tspan fill="#ce9178">"C++"</tspan>, <tspan fill="#ce9178">"Java"</tspan>];</text>
@@ -320,7 +320,7 @@
         <g>
           <clipPath id="codeClip2">
             <rect x="76" y="609" width="0" height="26">
-              <animate attributeName="width" from="0" to="570" begin="14.60s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+              <animate attributeName="width" from="0" to="570" begin="6.3s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
             </rect>
           </clipPath>
           <text x="78" y="625" clip-path="url(#codeClip2)" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#d4d4d4">&#160;&#160;<tspan fill="#c586c0">while</tspan> (alive) { learn(); build(); }</text>
@@ -328,7 +328,7 @@
         <g>
           <clipPath id="codeClip3">
             <rect x="76" y="631" width="0" height="26">
-              <animate attributeName="width" from="0" to="570" begin="15.10s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+              <animate attributeName="width" from="0" to="570" begin="6.6s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
             </rect>
           </clipPath>
           <text x="78" y="647" clip-path="url(#codeClip3)" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#d4d4d4">&#160;&#160;<tspan fill="#c586c0">return</tspan> &lt;<tspan fill="#4ec9b0">Success</tspan> mindset=<tspan fill="#ce9178">"growth"</tspan> /&gt;;</text>
@@ -336,7 +336,7 @@
         <g>
           <clipPath id="codeClip4">
             <rect x="76" y="653" width="0" height="26">
-              <animate attributeName="width" from="0" to="570" begin="15.60s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+              <animate attributeName="width" from="0" to="570" begin="6.9s" dur="0.85s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
             </rect>
           </clipPath>
           <text x="78" y="669" clip-path="url(#codeClip4)" font-family="'Fira Code',Consolas,monospace" font-size="13" fill="#d4d4d4">};</text>
@@ -344,7 +344,7 @@
     </g>
     
     <g id="neon" text-anchor="middle" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;0.3;1;0.4;1;1" keyTimes="0;0.55;0.6;0.65;0.7;0.75;0.8;1" begin="17.4s" dur="1.6s" fill="freeze"/>
+      <animate attributeName="opacity" values="0;0;1;0.3;1;0.4;1;1" keyTimes="0;0.55;0.6;0.65;0.7;0.75;0.8;1" begin="7.5s" dur="1.6s" fill="freeze"/>
       <text x="354" y="717" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="20" font-weight="800" letter-spacing="1.5" fill="none" stroke="#e0369d" stroke-width="0.6" filter="url(#neonGlow)">KEEP CODING • KEEP GROWING</text>
       <text x="354" y="717" font-family="'Segoe UI',ui-sans-serif,sans-serif" font-size="20" font-weight="800" letter-spacing="1.5" fill="#ffe0fa">KEEP CODING • KEEP GROWING</text>
     </g>
