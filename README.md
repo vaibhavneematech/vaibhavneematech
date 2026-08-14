@@ -104,5 +104,4 @@
 ```js
 console.log("Debugging life, one semicolon at a time.");
 ```
-
 </p>
