@@ -18,8 +18,8 @@
 <ul>
 <li>🎓 Fourth-semester <b>BTech Computer Science</b> student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain</li>
 <li>💻 Comfortable in <b>C, C++, and Java</b>, with a growing interest in Data Structures & Algorithms</li>
-<li>🧠 Led a <b>student research project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
-<li>⚡ Built a <b>Health Gen AI prototype</b> in a 24-hour hackathon using generative AI concepts</li>
+<li>🧠 made a project detecting Alzheimer's disease from MRI scans</b> using CNNs — 85% test accuracy</li>
+<li>⚡ Built **HealthAI Guardian**, an AI health monitoring dashboard, in a 24-hour hackathon
 <li>🌱 Currently exploring AI/ML tooling and looking for a <b>software engineering internship</b></li>
 <li>♟️ Off-screen: chess, reading, and hunting for the next hackathon</li>
 </ul>
@@ -48,7 +48,7 @@
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🧠 **Early Alzheimer Disease Detection AI** | Detects Alzheimer's from MRI scans using CNN architectures; shipped a Streamlit diagnostic UI for doctors & caregivers, 85% test accuracy | Python · CNN · Streamlit | [Repo](https://github.com/vaibhavneematech/Early-ALZHEIMER-disease-detection-AI) |
-| ⚕️ **Health Gen AI** | 24-hour hackathon build — a generative AI prototype for healthcare data analysis using the Antigravity framework | Python · Generative AI | [Repo](https://github.com/vaibhavneematech/void-hacks-) |
+| ⚕️ **HealthAI Guardian** | AI-powered health monitoring dashboard — heart disease risk prediction, symptom checker, wearable sync, and telehealth booking. Built in a 24-hour hackathon. | Python · Generative AI · Streamlit | [Repo](https://github.com/vaibhavneematech/health-ai-guardian) |
 
 <br/>
 
