@@ -57,9 +57,7 @@
   <img src="assets/langs.svg?v=1" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="assets/trophies.svg?v=1" width="90%"/>
-</p>
+
 
 <br/>
 
