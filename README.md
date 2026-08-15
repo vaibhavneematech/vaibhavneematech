@@ -52,8 +52,6 @@
 
 ## GitHub Stats
 
-<h2 align="center">GitHub Stats</h2>
-
 <p align="center">
   <img src="assets/stats.svg?v=1" width="48%"/>
   <img src="assets/langs.svg?v=1" width="48%"/>
