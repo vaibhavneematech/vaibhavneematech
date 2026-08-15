@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td width="220" align="center" valign="middle">
-<img src="assets/lanyard.svg?v=1" alt="Vaibhav Neema ID badge" width="180"/>
+<td width="280" align="center" valign="top">
+<img src="assets/lanyard.svg?v=1" alt="Vaibhav Neema ID badge" width="260"/>
 </td>
 <td valign="middle">
 
