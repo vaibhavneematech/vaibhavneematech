@@ -67,14 +67,6 @@
 
 <br/>
 
-## Contribution Streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavneematech&theme=react-dark&hide_border=true&background=170821" alt="GitHub Contribution Streak" width="85%"/>
-</div>
-
-<br/>
-
 ## Contribution Snake
 
 <div align="center">
