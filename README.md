@@ -18,10 +18,11 @@
 ### About Me
 
 - 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain
-- 💻 Comfortable in **C, C++, and Java**, with a growing interest in Data Structures & Algorithms
+- 🛰️ Built **VYOM**, an aerospace-grade on-board AI Human Activity Recognition & protocol compliance assistant for ISRO BAS experiments (SIH 2026)
+- 💻 Comfortable in **C, C++, Java, and Python**, with a strong focus on Computer Vision, Edge AI, and systems engineering
 - 🧠 Built an Alzheimer's disease detection project from MRI scans using CNNs — 85% test accuracy
 - ⚡ Built **HealthAI Guardian**, an AI health monitoring dashboard, in a 24-hour hackathon
-- 🌱 Currently exploring AI/ML tooling and looking for a **software engineering internship**
+- 🌱 Currently exploring Edge AI/ML tooling and looking for a **software engineering internship**
 - ♟️ Off-screen: chess, reading, and hunting for the next hackathon
 
 </td>
@@ -32,22 +33,29 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySide6%20%2F%20Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0072CE?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <br/>
 
-## Projects
+## Featured Projects
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| 🧠 **Early Alzheimer Disease Detection AI** | Detects Alzheimer's from MRI scans using CNN architectures; shipped a Streamlit diagnostic UI for doctors & caregivers, 85% test accuracy | Python · CNN · Streamlit | [Repo](https://github.com/vaibhavneematech/Early-ALZHEIMER-disease-detection-AI) |
+| 🛰️ **VYOM • ISRO BAS Mission Control** | Aerospace-grade edge AI assistant for on-board Biological & Physical Sciences experiments (SIH26174). Features hybrid HSV + YOLOv11 detection, MediaPipe hand tracking, FSM protocol verification, avionics audio alerts, and Chromium flight deck UI. | Python · PySide6 · YOLOv11 · OpenCV · MediaPipe | [Repo](https://github.com/vaibhavneematech/ISRO-BAS-EXPERIMENTS-) |
+| 🧠 **Early Alzheimer Disease Detection AI** | Detects Alzheimer's from MRI scans using CNN architectures; shipped a Streamlit diagnostic UI for doctors & caregivers, 85% test accuracy. | Python · CNN · Streamlit | [Repo](https://github.com/vaibhavneematech/Early-ALZHEIMER-disease-detection-AI) |
 | ⚕️ **HealthAI Guardian** | AI-powered health monitoring dashboard — heart disease risk prediction, symptom checker, wearable sync, and telehealth booking. Built in a 24-hour hackathon. | Python · Generative AI · Streamlit | [Repo](https://github.com/vaibhavneematech/health-ai-guardian) |
+
 <br/>
 
 ## GitHub Stats
@@ -56,8 +64,6 @@
   <img src="assets/stats.svg?v=1" width="48%"/>
   <img src="assets/langs.svg?v=1" width="48%"/>
 </p>
-
-
 
 <br/>
 
@@ -100,3 +106,5 @@
 console.log("Debugging life, one semicolon at a time.");
 ```
 </p>
+
+</div>
