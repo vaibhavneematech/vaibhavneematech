@@ -67,10 +67,10 @@
 
 <br/>
 
-## Contribution Activity
+## Contribution Streak
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavneematech&theme=react-dark&bg_color=170821&color=ff6fd8&line=a855f7&point=e0369d&area=true&hide_border=true" alt="Contribution activity graph" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavneematech&theme=react-dark&hide_border=true&background=170821" alt="GitHub Contribution Streak" width="85%"/>
 </div>
 
 <br/>
