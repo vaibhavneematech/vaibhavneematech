@@ -18,8 +18,8 @@
 ### About Me
 
 - 🎓 Fourth-semester **BTech Computer Science** student at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Ujjain
-- 🛰️ Built **VYOM**, an aerospace-grade on-board AI Human Activity Recognition & protocol compliance assistant for ISRO BAS experiments (SIH 2026)
 - 💻 Comfortable in **C, C++, Java, and Python**, with a strong focus on Computer Vision, Edge AI, and systems engineering
+-  🛰️ Built **VYOM**, an aerospace-grade on-board AI Human Activity Recognition & protocol compliance assistant for ISRO BAS experiments (SIH 2026)
 - 🧠 Built an Alzheimer's disease detection project from MRI scans using CNNs — 85% test accuracy
 - ⚡ Built **HealthAI Guardian**, an AI health monitoring dashboard, in a 24-hour hackathon
 - 🌱 Currently exploring Edge AI/ML tooling and looking for a **software engineering internship**
